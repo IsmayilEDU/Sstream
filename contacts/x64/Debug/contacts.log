@@ -1,0 +1,3 @@
+﻿  contacts.cpp
+C:\Ismayil\PROJECTS\StepIT\OOP - (C++)\Lesson 22 - stream\contacts\contacts.cpp(89,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  contacts.vcxproj -> C:\Ismayil\PROJECTS\StepIT\OOP - (C++)\Lesson 22 - stream\x64\Debug\contacts.exe
